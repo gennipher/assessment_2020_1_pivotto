@@ -1,9 +1,11 @@
 # Assessment do professor Carlos Pivotto do curso de Engenharia da Computação, durante Projeto de Bloco em 2020.1
 
 ## Questão 6
+
 Um banco abriu uma linha de crédito para trabalhadores na indústria naval, mas precisa garantir que cada trabalhador comprometa no máximo 30% da sua renda bruta com a parcela do empréstimo. Então crie um algoritmo utilizando o Portugol que através da informação do Salário Bruto e da Parcela que ele irá pagar mensalmente responda se o empréstimo pode ser concedido ou não. Ao final, o algoritmo deverá mostrar o Salário Bruto do trabalhador, a Parcela Mensal do empréstimo, qual a porcentagem que a parcela compromete do Salário Bruto e se o empréstimo pode ou não ser concedido para esse trabalhador.
 
 ## Questão 8
+
 Você decidiu comprar um carro e para ajudar na sua decisão, você resolveu desenvolver um código que mostre ao final qual é o menor custo ao final de ano para cada modelo escolhido baseado no custo total de compra do carro, custo com impostos, custo com combustível (considerando o consumo médio de cada veículo e um total estimado de 10.000 Km rodados no ano e o valor de médio R$ 3,98 para o litro de combustível) e custos com seguro.
 Como dados de entrada você pode criar um arquivo que contenha as seguintes informações que serão carregadas no programa.
 
